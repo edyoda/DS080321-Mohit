@@ -1,0 +1,6 @@
+Food Name,Price
+Belgian Waffles,$5.95
+Strawberry Belgian Waffles,$7.95
+Berry-Berry Belgian Waffles,$8.95
+French Toast,$4.50
+Homestyle Breakfast,$6.95

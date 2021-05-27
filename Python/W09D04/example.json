@@ -1,0 +1,55 @@
+{"quiz": {
+		"sport": {
+			"q1": {
+				"question": "Which one is correct team name in NBA?",
+				"options": [
+					"New York Bulls",
+					"Los Angeles Kings",
+					"Golden State Warriros",
+					"Huston Rocket"
+				],
+				"answer": "Huston Rocket"
+			},
+			"q2": {
+				"question": " Which is National Sports of India?",
+				"options": ["Cricket",
+							 "Hockey",
+							 "Badminton",
+							 "Ice Hockey"],
+				"answer": "Hockey"
+			}
+		},
+		"maths": {
+			"q1": {
+				"question": "5 + 7 = ?",
+				"options": [
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"answer": "12"
+			},
+			"q2": {
+				"question": "12 - 8 = ?",
+				"options": [
+					"1",
+					"2",
+					"3",
+					"4"
+				],
+				"answer": "4"
+			}
+		},
+
+		"Python": {
+			"q1": {
+				"question": "Is it legal to do a,b = b,a in Python, if yes than what is it?",
+				"options": ["Not Allowed",
+							"Yes, Tuple Unpacking (Also Nos are getting swapping)",
+							"Yes Rational Rendering"],
+				"answer": "Yes, Tuple Unpacking (Also Nos are getting swapping)"
+			}
+		}
+	}
+}
